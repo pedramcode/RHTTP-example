@@ -1,0 +1,26 @@
+{
+  "name": "user_service",
+  "version": "0.0.1",
+  "description": "RHTTP example user service",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedramcode/RHTTP-example.git"
+  },
+  "keywords": [
+    "rhttp"
+  ],
+  "author": "Pedram Dehghanpour",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedramcode/RHTTP-example/issues"
+  },
+  "homepage": "https://github.com/pedramcode/RHTTP-example#readme",
+  "dependencies": {
+    "rhttp_node": "^0.1.4"
+  }
+}
